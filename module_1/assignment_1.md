@@ -10,7 +10,7 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
----
+---AI tools chatGPT are revolutionizing the way we learn with data. Exploring,understanding and applying complex data.
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
 
@@ -19,27 +19,32 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
+    <img width="822" alt="Screen Shot 2025-01-16 at 7 19 38 PM" src="https://github.com/user-attachments/assets/e65908d7-bec5-4b3c-b1ba-5c8b71e2cc82" />
+
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
 
----
+---The steps are not clear to me, it should be explained in more detail, such as starting by creating the spreadsheet and the data to be processed.
 
 ### 3. **Comparison**  
 - Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").  
 - Compare the Google search experience to ChatGPT’s response:  
-  - Was the Google result more or less detailed?  
-  - Did you find videos, articles, or blog posts helpful?  
+  - Was the Google result more or less detailed?
+    The Google result less detailed than chatGPT 
+  - Did you find videos, articles, or blog posts helpful?
+    I found videos,articles , or blog helpful in google 
   - Include any relevant link(s) you found helpful and explain why.
+  - Revelant lonks and pictures helpful to understand by descending order in excel.
 
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
 - Which resource you found most effective for this? 
----
+---I found most effective, more detail and graphic too.
 
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
@@ -48,7 +53,8 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information  
 
----
+---Both chatGPT and Google are powerful tools that can used for different purposes.
+ChatGPT creative writing,poems or dialogues  anf google provides access tom the news and information.
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
